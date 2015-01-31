@@ -1,0 +1,9 @@
+Package: com.rohan32.anyspot
+Name: AnySpot
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Search a multitude of search providers all from Spotlight by prefixing your query with different strings
+Maintainer: Rohan Mathur
+Author: Rohan Mathur
+Section: Tweaks
